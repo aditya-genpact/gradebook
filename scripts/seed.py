@@ -12,7 +12,9 @@ from gradebook.storage import DATA_FILE, load_data, save_data
 
 
 def seed():
+    
     """Create demo students, courses, and grades."""
+
     data = load_data()
     data["students"] = []
     data["courses"] = []

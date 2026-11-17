@@ -15,7 +15,9 @@ from gradebook.service import (
 
 
 def parse_grade(value):
+
     """Convert a grade string to a float and validate the allowed range."""
+
     try:
         grade = float(value)
     except (TypeError, ValueError) as exc:
@@ -37,6 +39,7 @@ def _print_list(items, formatter):
 
 def main():
     """Run the command-line interface for the gradebook application."""
+    
     parser = argparse.ArgumentParser(description="Gradebook CLI")
     subparsers = parser.add_subparsers(dest="command")
 

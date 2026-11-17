@@ -30,6 +30,7 @@ class Course:
 
 
 class Enrollment:
+    
     """Represents a student's enrollment in a course."""
 
     def __init__(self, student_id, course_code, grades=None):
