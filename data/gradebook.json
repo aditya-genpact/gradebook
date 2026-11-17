@@ -1,0 +1,50 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice"
+        },
+        {
+            "id": 2,
+            "name": "Bob"
+        },
+        {
+            "id": 3,
+            "name": "Charlie"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CS101",
+            "title": "Intro to CS"
+        },
+        {
+            "code": "MATH100",
+            "title": "Calculus"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_code": "CS101",
+            "grades": [
+                95.0,
+                90.0
+            ]
+        },
+        {
+            "student_id": 2,
+            "course_code": "CS101",
+            "grades": [
+                88.0
+            ]
+        },
+        {
+            "student_id": 3,
+            "course_code": "MATH100",
+            "grades": [
+                80.0
+            ]
+        }
+    ]
+}

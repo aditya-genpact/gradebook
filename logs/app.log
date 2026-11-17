@@ -1,0 +1,171 @@
+2026-11-17 16:41:53,209 - INFO - No data file found. Starting empty.
+2026-11-17 16:41:53,210 - INFO - Data saved successfully
+2026-11-17 16:41:53,210 - INFO - Added student Test User with id 1
+2026-11-17 16:41:58,710 - INFO - Data loaded successfully
+2026-11-17 16:41:58,711 - INFO - Data saved successfully
+2026-11-17 16:41:58,711 - INFO - Added student Test User with id 2
+2026-11-17 16:41:58,712 - INFO - Data loaded successfully
+2026-11-17 16:41:58,715 - INFO - Data loaded successfully
+2026-11-17 16:42:19,165 - INFO - Data loaded successfully
+2026-11-17 16:42:19,167 - INFO - Data saved successfully
+2026-11-17 16:42:19,168 - INFO - Data loaded successfully
+2026-11-17 16:42:19,169 - INFO - Data saved successfully
+2026-11-17 16:42:19,169 - INFO - Added student Alice with id 1
+2026-11-17 16:42:19,169 - INFO - Data loaded successfully
+2026-11-17 16:42:19,170 - INFO - Data saved successfully
+2026-11-17 16:42:19,170 - INFO - Added student Bob with id 2
+2026-11-17 16:42:19,170 - INFO - Data loaded successfully
+2026-11-17 16:42:19,171 - INFO - Data saved successfully
+2026-11-17 16:42:19,171 - INFO - Added student Charlie with id 3
+2026-11-17 16:42:19,172 - INFO - Data loaded successfully
+2026-11-17 16:42:19,172 - INFO - Data saved successfully
+2026-11-17 16:42:19,172 - INFO - Added course CS101 (Intro to CS)
+2026-11-17 16:42:19,173 - INFO - Data loaded successfully
+2026-11-17 16:42:19,174 - INFO - Data saved successfully
+2026-11-17 16:42:19,174 - INFO - Added course MATH100 (Calculus)
+2026-11-17 16:42:19,174 - INFO - Data loaded successfully
+2026-11-17 16:42:19,175 - INFO - Data saved successfully
+2026-11-17 16:42:19,175 - INFO - Enrolled student 1 in CS101
+2026-11-17 16:42:19,175 - INFO - Data loaded successfully
+2026-11-17 16:42:19,176 - INFO - Data saved successfully
+2026-11-17 16:42:19,176 - INFO - Enrolled student 2 in CS101
+2026-11-17 16:42:19,176 - INFO - Data loaded successfully
+2026-11-17 16:42:19,178 - INFO - Data saved successfully
+2026-11-17 16:42:19,178 - INFO - Enrolled student 3 in MATH100
+2026-11-17 16:42:19,178 - INFO - Data loaded successfully
+2026-11-17 16:42:19,180 - INFO - Data saved successfully
+2026-11-17 16:42:19,181 - INFO - Added grade 95.0 to student 1 in CS101
+2026-11-17 16:42:19,181 - INFO - Data loaded successfully
+2026-11-17 16:42:19,182 - INFO - Data saved successfully
+2026-11-17 16:42:19,182 - INFO - Added grade 90.0 to student 1 in CS101
+2026-11-17 16:42:19,183 - INFO - Data loaded successfully
+2026-11-17 16:42:19,184 - INFO - Data saved successfully
+2026-11-17 16:42:19,184 - INFO - Added grade 88.0 to student 2 in CS101
+2026-11-17 16:42:19,184 - INFO - Data loaded successfully
+2026-11-17 16:42:19,185 - INFO - Data saved successfully
+2026-11-17 16:42:19,185 - INFO - Added grade 80.0 to student 3 in MATH100
+2026-11-17 16:42:24,652 - INFO - Data loaded successfully
+2026-11-17 16:42:24,653 - INFO - Data saved successfully
+2026-11-17 16:42:24,653 - INFO - Added student Test User with id 4
+2026-11-17 16:42:24,653 - INFO - Data loaded successfully
+2026-11-17 16:42:24,654 - INFO - Data loaded successfully
+2026-11-17 16:42:29,664 - INFO - Data loaded successfully
+2026-11-17 16:42:29,806 - INFO - Data loaded successfully
+2026-11-17 16:42:29,941 - INFO - Data loaded successfully
+2026-11-17 16:42:29,942 - INFO - Data loaded successfully
+2026-11-17 16:42:40,637 - INFO - Data loaded successfully
+2026-11-17 16:42:40,638 - INFO - Data saved successfully
+2026-11-17 16:42:40,638 - INFO - Data loaded successfully
+2026-11-17 16:42:40,640 - INFO - Data saved successfully
+2026-11-17 16:42:40,640 - INFO - Added student Alice with id 1
+2026-11-17 16:42:40,640 - INFO - Data loaded successfully
+2026-11-17 16:42:40,641 - INFO - Data saved successfully
+2026-11-17 16:42:40,641 - INFO - Added student Bob with id 2
+2026-11-17 16:42:40,641 - INFO - Data loaded successfully
+2026-11-17 16:42:40,642 - INFO - Data saved successfully
+2026-11-17 16:42:40,642 - INFO - Added student Charlie with id 3
+2026-11-17 16:42:40,643 - INFO - Data loaded successfully
+2026-11-17 16:42:40,643 - INFO - Data saved successfully
+2026-11-17 16:42:40,644 - INFO - Added course CS101 (Intro to CS)
+2026-11-17 16:42:40,644 - INFO - Data loaded successfully
+2026-11-17 16:42:40,645 - INFO - Data saved successfully
+2026-11-17 16:42:40,645 - INFO - Added course MATH100 (Calculus)
+2026-11-17 16:42:40,646 - INFO - Data loaded successfully
+2026-11-17 16:42:40,648 - INFO - Data saved successfully
+2026-11-17 16:42:40,648 - INFO - Enrolled student 1 in CS101
+2026-11-17 16:42:40,648 - INFO - Data loaded successfully
+2026-11-17 16:42:40,649 - INFO - Data saved successfully
+2026-11-17 16:42:40,649 - INFO - Enrolled student 2 in CS101
+2026-11-17 16:42:40,650 - INFO - Data loaded successfully
+2026-11-17 16:42:40,651 - INFO - Data saved successfully
+2026-11-17 16:42:40,651 - INFO - Enrolled student 3 in MATH100
+2026-11-17 16:42:40,651 - INFO - Data loaded successfully
+2026-11-17 16:42:40,652 - INFO - Data saved successfully
+2026-11-17 16:42:40,652 - INFO - Added grade 95.0 to student 1 in CS101
+2026-11-17 16:42:40,652 - INFO - Data loaded successfully
+2026-11-17 16:42:40,653 - INFO - Data saved successfully
+2026-11-17 16:42:40,653 - INFO - Added grade 90.0 to student 1 in CS101
+2026-11-17 16:42:40,654 - INFO - Data loaded successfully
+2026-11-17 16:42:40,655 - INFO - Data saved successfully
+2026-11-17 16:42:40,655 - INFO - Added grade 88.0 to student 2 in CS101
+2026-11-17 16:42:40,655 - INFO - Data loaded successfully
+2026-11-17 16:42:40,656 - INFO - Data saved successfully
+2026-11-17 16:42:40,656 - INFO - Added grade 80.0 to student 3 in MATH100
+2026-11-17 16:42:54,757 - INFO - Data saved successfully
+2026-11-17 16:42:54,758 - INFO - Data loaded successfully
+2026-11-17 16:42:54,759 - INFO - Data saved successfully
+2026-11-17 16:42:54,759 - INFO - Added student Alice with id 1
+2026-11-17 16:42:54,759 - INFO - Data loaded successfully
+2026-11-17 16:42:54,760 - INFO - Data saved successfully
+2026-11-17 16:42:54,760 - INFO - Added course CS101 (Intro to CS)
+2026-11-17 16:42:54,760 - INFO - Data loaded successfully
+2026-11-17 16:42:54,761 - INFO - Data saved successfully
+2026-11-17 16:42:54,762 - INFO - Enrolled student 1 in CS101
+2026-11-17 16:42:54,762 - INFO - Data loaded successfully
+2026-11-17 16:42:54,764 - INFO - Data saved successfully
+2026-11-17 16:42:54,764 - INFO - Added grade 95.0 to student 1 in CS101
+2026-11-17 16:42:54,764 - INFO - Data loaded successfully
+2026-11-17 16:42:54,766 - INFO - Data saved successfully
+2026-11-17 16:42:54,766 - INFO - Added grade 90.0 to student 1 in CS101
+2026-11-17 16:42:54,766 - INFO - Data loaded successfully
+2026-11-17 16:42:54,767 - INFO - Data saved successfully
+2026-11-17 16:42:54,767 - INFO - Data loaded successfully
+2026-11-17 16:42:54,768 - INFO - Data saved successfully
+2026-11-17 16:42:54,768 - INFO - Added student Test User with id 1
+2026-11-17 16:42:54,769 - INFO - Data saved successfully
+2026-11-17 16:42:54,769 - INFO - Data loaded successfully
+2026-11-17 16:42:54,770 - INFO - Data saved successfully
+2026-11-17 16:42:54,770 - INFO - Added student Alice with id 1
+2026-11-17 16:42:54,771 - INFO - Data loaded successfully
+2026-11-17 16:42:54,771 - INFO - Data saved successfully
+2026-11-17 16:42:54,772 - INFO - Added course CS101 (Intro to CS)
+2026-11-17 16:42:54,772 - INFO - Data loaded successfully
+2026-11-17 16:42:54,773 - INFO - Data saved successfully
+2026-11-17 16:42:54,773 - INFO - Enrolled student 1 in CS101
+2026-11-17 16:42:54,773 - INFO - Data loaded successfully
+2026-11-17 16:42:54,774 - INFO - Data saved successfully
+2026-11-17 16:42:54,774 - INFO - Added grade 90.0 to student 1 in CS101
+2026-11-17 16:42:54,774 - INFO - Data loaded successfully
+2026-11-17 16:42:54,775 - INFO - Data saved successfully
+2026-11-17 16:42:54,775 - INFO - Added grade 95.0 to student 1 in CS101
+2026-11-17 16:42:54,775 - INFO - Data loaded successfully
+2026-11-17 16:42:54,776 - INFO - Data saved successfully
+2026-11-17 16:42:54,776 - INFO - Data loaded successfully
+2026-11-17 16:43:00,463 - INFO - Data loaded successfully
+2026-11-17 16:43:00,465 - INFO - Data saved successfully
+2026-11-17 16:43:00,465 - INFO - Data loaded successfully
+2026-11-17 16:43:00,467 - INFO - Data saved successfully
+2026-11-17 16:43:00,467 - INFO - Added student Alice with id 1
+2026-11-17 16:43:00,467 - INFO - Data loaded successfully
+2026-11-17 16:43:00,468 - INFO - Data saved successfully
+2026-11-17 16:43:00,468 - INFO - Added student Bob with id 2
+2026-11-17 16:43:00,468 - INFO - Data loaded successfully
+2026-11-17 16:43:00,469 - INFO - Data saved successfully
+2026-11-17 16:43:00,469 - INFO - Added student Charlie with id 3
+2026-11-17 16:43:00,470 - INFO - Data loaded successfully
+2026-11-17 16:43:00,470 - INFO - Data saved successfully
+2026-11-17 16:43:00,470 - INFO - Added course CS101 (Intro to CS)
+2026-11-17 16:43:00,471 - INFO - Data loaded successfully
+2026-11-17 16:43:00,472 - INFO - Data saved successfully
+2026-11-17 16:43:00,472 - INFO - Added course MATH100 (Calculus)
+2026-11-17 16:43:00,472 - INFO - Data loaded successfully
+2026-11-17 16:43:00,473 - INFO - Data saved successfully
+2026-11-17 16:43:00,473 - INFO - Enrolled student 1 in CS101
+2026-11-17 16:43:00,473 - INFO - Data loaded successfully
+2026-11-17 16:43:00,474 - INFO - Data saved successfully
+2026-11-17 16:43:00,474 - INFO - Enrolled student 2 in CS101
+2026-11-17 16:43:00,474 - INFO - Data loaded successfully
+2026-11-17 16:43:00,475 - INFO - Data saved successfully
+2026-11-17 16:43:00,475 - INFO - Enrolled student 3 in MATH100
+2026-11-17 16:43:00,476 - INFO - Data loaded successfully
+2026-11-17 16:43:00,476 - INFO - Data saved successfully
+2026-11-17 16:43:00,476 - INFO - Added grade 95.0 to student 1 in CS101
+2026-11-17 16:43:00,477 - INFO - Data loaded successfully
+2026-11-17 16:43:00,478 - INFO - Data saved successfully
+2026-11-17 16:43:00,478 - INFO - Added grade 90.0 to student 1 in CS101
+2026-11-17 16:43:00,479 - INFO - Data loaded successfully
+2026-11-17 16:43:00,480 - INFO - Data saved successfully
+2026-11-17 16:43:00,481 - INFO - Added grade 88.0 to student 2 in CS101
+2026-11-17 16:43:00,481 - INFO - Data loaded successfully
+2026-11-17 16:43:00,482 - INFO - Data saved successfully
+2026-11-17 16:43:00,482 - INFO - Added grade 80.0 to student 3 in MATH100
